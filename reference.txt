@@ -1,0 +1,11 @@
+Steps to execute
+
+- go to virtual env myvenv in the isharanka folder
+
+- pip3 install atlassian-python-api
+
+- pip3 install pandas
+
+-pip3 install bs4
+
+- python3 atlaasian_demo.py
