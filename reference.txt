@@ -1,5 +1,9 @@
 Steps to execute
 
+conda deactivate (for deactivation present env)
+
+Source <env name>/bin/activate
+
 - go to virtual env myvenv in the isharanka folder
 
 - pip3 install atlassian-python-api
@@ -9,3 +13,10 @@ Steps to execute
 -pip3 install bs4
 
 - python3 atlaasian_demo.py
+
+
+If expired - generate api token and update password in the code
+
+https://community.atlassian.com/t5/Jira-questions/ERROR-quot-message-quot-quot-Client-must-be-authenticated-to/qaq-p/1076087
+
+https://id.atlassian.com/manage-profile/security/api-tokens
